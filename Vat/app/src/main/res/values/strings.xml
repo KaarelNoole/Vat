@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">Vat</string>
+    <string name="unpr">Unit price</string>
+    <string name="enval">Enter a value</string>
+    <string name="numu">Number of units</string>
+    <string name="upexvat">Unit price without VAT</string>
+    <string name="upivat">Unit price with VAT</string>
+    <string name="calc">Calculate</string>
+    <string name="Clear">Clear</string>
+    <string name="awoVAT">Amount</string>
+    <string name="AwoVAT">Amount without VAT</string>
+    <string name="VAT">VAT</string>
+    <string name="AincVAT" />
+    <string name="aincVAT">Amount including VAT</string>
+    <string-array name="Country_Array">
+        <item>Austria</item>
+        <item>Belgium</item>
+        <item>Czech Republic</item>
+        <item>Denmark</item>
+        <item>Estonia</item>
+        <item>Finland</item>
+        <item>France</item>
+        <item>Germany</item>
+        <item>Greece</item>
+        <item>Hungary</item>
+        <item>Iceland</item>
+        <item>Ireland</item>
+        <item>Italy</item>
+        <item>Latvia</item>
+        <item>Luxembourg</item>
+        <item>Netherlands</item>
+        <item>Norway</item>
+        <item>Poland</item>
+        <item>Portugal</item>
+        <item>Slovak Republic</item>
+        <item>Slovenia</item>
+        <item>Spain</item>
+        <item>Sweden</item>
+        <item>Switzerland</item>
+        <item>Turkey</item>
+        <item>United Kingdom</item>
+    </string-array>
+
+
+    <string-array name="Country_vat_array">
+        <item>0.20</item>
+        <item>0.21</item>
+        <item>0.21</item>
+        <item>0.25</item>
+        <item>0.20</item>
+        <item>0.24</item>
+        <item>0.20</item>
+        <item>0.19</item>
+        <item>0.24</item>
+        <item>0.27</item>
+        <item>0.24</item>
+        <item>0.23</item>
+        <item>0.22</item>
+        <item>0.21</item>
+        <item>0.17</item>
+        <item>0.21</item>
+        <item>0.25</item>
+        <item>0.23</item>
+        <item>0.20</item>
+        <item>0.20</item>
+        <item>0.22</item>
+        <item>0.21</item>
+        <item>0.25</item>
+        <item>0.077</item>
+        <item>0.18</item>
+        <item>0.20</item>
+    </string-array>
+</resources>
